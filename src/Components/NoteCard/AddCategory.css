@@ -1,0 +1,20 @@
+.add-category-button {
+    background-color: var(--secondary-color);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0px 20px 0px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.add-category-button:hover {
+    background-color: var(--background-color);
+    color: black;
+}
+
+.input-category {
+    border-radius: 10px;
+    border: 1px solid black;
+}
